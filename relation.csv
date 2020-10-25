@@ -1,0 +1,18 @@
+﻿relation_id,need_set,relation_NP,relation_VP
+1,Color,User,Good looking
+2,Structure,User,Easy to hold
+3,Structure,User,Small volume
+4,Function,User,Multiple services
+5,Color,User,Single colors
+6,Material,User,Low wear resistance
+7,Process,User,Different qualities
+8,Color,Designer,Add colors
+9,Material,Designer,Improve raw material
+10,Function,Designer,Design new functions
+11,Structure,Designer,Keep intact
+12,Process,Designer,Adopt new machining technique
+13,Color,Product design and development,Relate to
+14,Material,Product design and development,Relate to
+15,Structure,Product design and development,Relate to
+16,Function,Product design and development,Relate to
+17,Process,Product design and development,Relate to
